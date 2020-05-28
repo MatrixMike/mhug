@@ -1,4 +1,4 @@
-main =  print "hello Brendan MHUG mike1"
+main =  print "hello Brendan MHUG mike1 v2"
 
 -- hello
 -- is anyone out there??
